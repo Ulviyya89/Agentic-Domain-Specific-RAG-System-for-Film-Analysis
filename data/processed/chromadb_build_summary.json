@@ -1,0 +1,11 @@
+{
+  "project_name": "domain_specific_rag_movie_analysis",
+  "domain_name": "Narrative, thematic, and character analysis of curated film documents",
+  "collection_name": "movie_analysis_chunks",
+  "embed_model": "text-embedding-3-large",
+  "chunk_rows_loaded": 143,
+  "documents_indexed": 143,
+  "collection_count": 143,
+  "persist_directory": "/tmp/chroma_db/movie_analysis",
+  "built_at": "2026-04-07T04:37:17.958435"
+}

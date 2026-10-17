@@ -1,0 +1,15 @@
+.env
+.env.*
+!.env.example
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.log
+*.sqlite*
+**/chroma_db/
+**/memory/
+mlruns/
+logs/
+exports/
+.DS_Store

@@ -1,0 +1,22 @@
+{
+  "project_name": "domain_specific_rag_movie_analysis",
+  "project_title": "Agentic Domain-Specific RAG System for Film Analysis",
+  "domain_name": "Narrative, thematic, and character analysis of curated film documents",
+  "knowledge_base_description": "A curated film document collection focused on narrative analysis, thematic interpretation,\ncharacter motivation, symbolic meaning, and story structure.",
+  "embed_model": "text-embedding-3-large",
+  "chat_model": "gpt-4o",
+  "chunk_size": 1200,
+  "chunk_overlap": 200,
+  "top_k": 5,
+  "temperature": 0,
+  "base_dir": "/Workspace/Users/YOUR_DATABRICKS_USER/Agentic_RAG_Professional_Project",
+  "data_dir": "/Workspace/Users/YOUR_DATABRICKS_USER/Agentic_RAG_Professional_Project/data",
+  "raw_docs_dir": "/Workspace/Users/YOUR_DATABRICKS_USER/Agentic_RAG_Professional_Project/data/raw_pdfs",
+  "processed_dir": "/Workspace/Users/YOUR_DATABRICKS_USER/Agentic_RAG_Professional_Project/data/processed",
+  "chroma_dir": "/Workspace/Users/YOUR_DATABRICKS_USER/Agentic_RAG_Professional_Project/data/chroma_db",
+  "exports_dir": "/Workspace/Users/YOUR_DATABRICKS_USER/Agentic_RAG_Professional_Project/exports",
+  "config_dir": "/Workspace/Users/YOUR_DATABRICKS_USER/Agentic_RAG_Professional_Project/config",
+  "logs_dir": "/Workspace/Users/YOUR_DATABRICKS_USER/Agentic_RAG_Professional_Project/logs",
+  "reports_dir": "/Workspace/Users/YOUR_DATABRICKS_USER/Agentic_RAG_Professional_Project/reports",
+  "created_at": "2026-04-07T02:23:43.764008"
+}
